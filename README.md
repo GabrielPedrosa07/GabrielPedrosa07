@@ -35,7 +35,7 @@
 
 <br>
 
-<img align="right" height="150" src="https://media1.tenor.com/m/TdfVOIHjS6gAAAAC/shaking-mr-robot-mr-robot.gif" alt="Mr. Robot GIF" />
+<img align="right" height="190" src="https://media1.tenor.com/m/TdfVOIHjS6gAAAAC/shaking-mr-robot-mr-robot.gif" alt="Mr. Robot GIF" />
 
 <br>
 
