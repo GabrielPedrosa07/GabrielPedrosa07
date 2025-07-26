@@ -41,6 +41,7 @@
 
 <!-- Redes sociais -->
 <div align="left">
+  
   <a href="https://www.instagram.com/gabrielpedrosa07" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
@@ -53,11 +54,10 @@
   <a href="https://www.linkedin.com/in/gabrielpedrosa07" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
+  
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
