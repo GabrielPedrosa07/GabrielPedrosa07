@@ -1,7 +1,7 @@
 <h2 align="left">
   🚀 Olá! Sou <strong>Gabriel Pedrosa</strong><br>
   💻 Profissional nas áreas de <strong>Análise e Desenvolvimento de Sistemas</strong> e <strong>Design</strong>, com foco em soluções <em>criativas</em> e <em>funcionais</em>.<br>
-  ☕ Tenho experiência com <strong>Java</strong> e estou sempre em busca de novos desafios no mundo da <strong>tecnologia</strong>.
+  ☕ Estou sempre em busca de novos desafios no mundo da <strong>tecnologia</strong>.
 </h2>
 
 <br>
